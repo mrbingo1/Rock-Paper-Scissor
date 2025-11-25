@@ -73,8 +73,8 @@ function playGame() {
     }
 
     console.log(`Human Score: ${humanScore}
-Computer Score: ${computerScore}
-Draw: ${draw}`);
+        Computer Score: ${computerScore}
+        Draw: ${draw}`);
 }
 
 playGame();
